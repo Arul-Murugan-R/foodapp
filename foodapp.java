@@ -54,7 +54,7 @@ public class foodapp {
         
             }  
             else {
-                System.out.println("Thank u sir have a nice day");
+                System.out.println("Thank you sir have a nice day");
             }
         }
         
