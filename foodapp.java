@@ -34,7 +34,7 @@ public class foodapp {
             System.out.println("Would u like to order some thing Say yes or no");
             ans=s.next();
             if (ans.equals("yes")){
-                System.out.println("ok, say what u want ");
+                System.out.println("ok, say what you want ");
                 System.out.println("Can u say how many dish do u want : ");
                 int n=s.nextInt();
                 ArrayList<String> order = new ArrayList<>();
